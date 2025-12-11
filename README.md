@@ -1,7 +1,7 @@
 # Smart Device Analytics – Microsoft Fabric (Lakehouse + Warehouse + PySpark)
 > Proyecto de ingeniería de datos con ingesta incremental y full load en Lakehouse, transformación con PySpark + Dataflows Gen2, y análisis en SQL Warehouse con procedimientos almacenados, todo orquestado con pipelines Fabric.
 
-[🎥 Demo: https://youtu.be/TU-DEMO] (reemplaza con tu enlace real)
+[🎥 Demo: https://www.youtube.com/watch?v=LxTyrOL0ioI]
 
 ---
 
@@ -70,3 +70,11 @@ Pipelines Fabric:
 - SQL Warehouse: procedimientos almacenados para cargas completas e incrementales.
 - Azure Data Lake Storage: fuente de datos crudos con shortcuts.
 - GitHub: código, documentación, versionado.
+
+---
+
+<img width="1852" height="917" alt="Image" src="https://github.com/user-attachments/assets/6d4481ca-be15-450a-b4b6-d7edbad12fc1" />
+<img width="1100" height="919" alt="Image" src="https://github.com/user-attachments/assets/b838df55-0a55-47ab-9d3f-d3b249e5913c" />
+<img width="1130" height="809" alt="Image" src="https://github.com/user-attachments/assets/f1536703-24f7-4daf-b0b1-29a1446f7491" />
+<img width="1010" height="699" alt="Image" src="https://github.com/user-attachments/assets/19c521e3-bd0e-493f-b685-817cf225389e" />
+<img width="1856" height="916" alt="Image" src="https://github.com/user-attachments/assets/b3bcd8f4-2255-4933-9393-af5a2ea37192" />
